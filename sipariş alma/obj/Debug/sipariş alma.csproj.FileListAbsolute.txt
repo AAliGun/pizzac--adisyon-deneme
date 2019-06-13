@@ -1,0 +1,9 @@
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\bin\Debug\sipariş alma.exe.config
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\bin\Debug\sipariş alma.exe
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\bin\Debug\sipariş alma.pdb
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş alma.csprojResolveAssemblyReference.cache
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş_alma.Form1.resources
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş_alma.Properties.Resources.resources
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş alma.csproj.GenerateResource.Cache
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş alma.exe
+C:\Users\ZGRSHNTR\Desktop\AAG ÇALIŞMA\11111\sipariş alma\sipariş alma\obj\Debug\sipariş alma.pdb
